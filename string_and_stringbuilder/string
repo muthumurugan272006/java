@@ -17,3 +17,14 @@ public class Example {
 }
 O/P
 Java
+1,to compare string we need to use .equals()
+for eg:
+public class CompareString {
+    public static void main(String[] args) {
+
+        String a = "Java";
+        String b = "Java";
+
+        System.out.println(a.equals(b));
+    }
+}
