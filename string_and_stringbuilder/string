@@ -1,0 +1,4 @@
+What is String??
+A String in Java is a sequence of characters used to store text, enclosed by double quotes
+for eg:
+"Hello" => is a String
