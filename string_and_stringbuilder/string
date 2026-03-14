@@ -2,3 +2,18 @@ What is String??
 A String in Java is a sequence of characters used to store text, enclosed by double quotes
 for eg:
 "Hello" => is a String
+String is immutable in java.
+immutable=>Immutable means cannot be changed after it is created.
+for eg:
+public class Example {
+    public static void main(String[] args) {
+
+        String name = "Java";
+
+        name.concat(" Programming");
+
+        System.out.println(name);
+    }
+}
+O/P
+Java
